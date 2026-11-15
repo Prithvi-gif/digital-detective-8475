@@ -11,7 +11,7 @@ The objective is to investigate how my computer works, practise Terminal operati
 | Mission | Topic | Status |
 |---|---|---|
 | 00 | GitHub Workspace Setup | In Progress |
-| 01 | Computer Basics and IPOS | Not Started |
+| 01 | Computer Basics and IPOS | Completed |
 | 02 | Terminal and File Management | Not Started |
 | 03 | Operating System | Not Started |
 | 04 | How Programs Run | Not Started |

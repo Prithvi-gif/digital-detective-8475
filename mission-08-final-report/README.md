@@ -92,8 +92,8 @@ This assignment improved my technical knowledge, problem-solving skills, and con
 - [x] Root README updated.
 - [x] Mission 8 final report prepared.
 - [x] Personal information reviewed and redacted where applicable.
-- [ ] Final Mission 8 changes committed and pushed to GitHub.
-- [ ] GitHub repository opened and latest changes verified.
+- [x] Final Mission 8 changes committed and pushed to GitHub.
+- [x] GitHub repository opened and latest changes verified.
 - [ ] Repository URL submitted through the instructor's Google Form.
 
 ## 9. Conclusion

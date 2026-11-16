@@ -101,6 +101,13 @@ Screenshots and selected outputs related to the assignment are stored in the `ev
 
 **Note:** This repository contains my own practical observations, explanations, and assignment work.
 
+## My Learning
+
+- Learned basic Git commands and version control.
+- Practised staging and committing changes.
+- Learned how to create and switch branches.
+- Understood how GitHub supports collaboration through Pull Requests.
+
 ### GitHub Pull Request
 
 Mission 6 includes Pull Request #1, created from the `update-about` branch.

@@ -36,3 +36,10 @@ Screenshots and selected outputs will be stored in the `evidence/` folder.
 ---
 
 **Note:** This repository contains my own practical observations, explanations, and assignment work.
+
+## My Learning
+
+- Learned basic Git commands and version control.
+- Practised staging and committing changes.
+- Learned how to create and switch branches.
+- Understood how GitHub supports collaboration through Pull Requests.

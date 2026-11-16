@@ -19,7 +19,7 @@ The objective is to investigate how a computer works, practise Terminal operatio
 | 05 | Numbers and Data | Completed |
 | 06 | Git and GitHub | Completed |
 | 07 | How Computers Communicate | Completed |
-| 08 | Final Report and Submission | In Progress |
+| 08 | Final Report and Submission | Completed |
 
 ### Mission Folders
 
